@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/saivamsi0239/Space%20Game%20-%20web/_apis/build/status/Space%20Game%20-%20web?branchName=master)](https://dev.azure.com/saivamsi0239/Space%20Game%20-%20web/_build/latest?definitionId=1&branchName=master)
+
 #Steps to run
 1. First of all activate venv 
    
